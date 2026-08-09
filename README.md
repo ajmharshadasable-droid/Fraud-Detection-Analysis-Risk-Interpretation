@@ -19,7 +19,8 @@ This project focuses on analyzing credit card transaction data, identifying frau
 
 ## 📊 Dataset
 
-**Dataset:** Credit Card Fraud Detection Dataset
+Dataset: Credit Card Fraud Detection Dataset
+The dataset is not included in this repository due to its large file size. It can be downloaded from Kaggle.
 
 The dataset contains **284,807 transactions** with 31 columns, including transaction time, anonymized features (V1–V28), transaction amount, and the target class.
 
